@@ -1,0 +1,1 @@
+start /d "C:\Users\USER\PycharmProjects\Bot_server" C:\Users\USER\PycharmProjects\Bot_server\actualizar_bot_server.py.bat

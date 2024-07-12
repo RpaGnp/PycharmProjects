@@ -1,0 +1,7 @@
+https://medium.com/@hektorprofe/primeros-pasos-en-pyqt-5-y-qt-designer-programas-gr%C3%A1ficos-con-python-6161fba46060
+pycryptodome
+pycryptodomex
+pyodbc
+
+
+0	78	09:43:51	CALL SPR_GETROLUSER (1000076171)	Error Code: 1241. Operand should contain 1 column(s)	0.016 sec

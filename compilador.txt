@@ -1,0 +1,6 @@
+pyinstaller --noconfirm --onefile --console --icon "C:/Users/USER/PycharmProjects/Bot_server/img/logo-removebg-preview.ico" "C:/Users/USER/PycharmProjects/Bot_server/bot_server.py" --debug all
+
+pyinstaller --noconfirm --onefile --console --icon "C:/Users/USER/PycharmProjects/Bot_server/img/logo-removebg-preview.ico"  "C:/Users/USER/PycharmProjects/Bot_server/bot_server.py"
+
+==========
+pyinstaller --noconfirm --onefile --console --icon "C:/Users/USER/PycharmProjects/Bot_server/img/logo-removebg-preview.ico"  "C:/Users/USER/PycharmProjects/Bot_server/bot_server.py"
